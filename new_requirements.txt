@@ -1,0 +1,10 @@
+1) Top panel to be expande to occupy blank spaces
+2) Logo to be included statically adjcent to the photo slideshow.
+3) Photo slideshow to have top 5 prominent photos.
+4) Take the written content as static image add youtube link in parallel
+5) change background photo, as of now take existing background.
+6) Include new photos in photo gallery.
+7) Include new profile in about us.
+8) Update media publications, also to include new youtube link.
+9) Change about me to about us
+10) Hyperlink linked-in/twitter icons and remove other ones. 
